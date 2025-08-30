@@ -17,7 +17,7 @@ All transformations are implemented using *NumPy* and visualized with *Matplotli
 
 geometric-transformations
 
- 1. transformations/
+ 1. transformations
  
   * affine_transform.py
   * similarity_transform.py
