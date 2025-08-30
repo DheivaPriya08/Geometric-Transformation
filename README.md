@@ -14,7 +14,9 @@ All transformations are implemented using *NumPy* and visualized with *Matplotli
 ---
 
 ## 📂 Repository Structure
-geometric-transformations/
+
+geometric-transformations
+
 1.transformations/
  affine_transform.py
  similarity_transform.py
@@ -29,6 +31,7 @@ geometric-transformations/
  demo_projective.py
 
 3. requirements.txt/
+
 4. README.md
 
 ---
