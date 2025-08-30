@@ -17,18 +17,15 @@ All transformations are implemented using *NumPy* and visualized with *Matplotli
 
 geometric-transformations
 
-1.transformations/
- affine_transform.py
- similarity_transform.py
- euclidean_transform.py
- projective_transform.py
- init.py
+ 1.transformations/
+ 
+  affine_transform.py
+  similarity_transform.py
+  euclidean_transform.py
+  projective_transform.py
+  init.py
 
 2. examples/
- demo_affine.py
- demo_similarity.py
- demo_euclidean.py
- demo_projective.py
 
 3. requirements.txt/
 
